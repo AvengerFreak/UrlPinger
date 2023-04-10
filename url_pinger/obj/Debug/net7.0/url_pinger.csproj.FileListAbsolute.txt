@@ -1,0 +1,15 @@
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\bin\Debug\net7.0\url_pinger.exe
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\bin\Debug\net7.0\url_pinger.deps.json
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\bin\Debug\net7.0\url_pinger.runtimeconfig.json
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\bin\Debug\net7.0\url_pinger.dll
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\bin\Debug\net7.0\url_pinger.pdb
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.csproj.AssemblyReference.cache
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.AssemblyInfoInputs.cache
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.AssemblyInfo.cs
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.csproj.CoreCompileInputs.cache
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.dll
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\refint\url_pinger.dll
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.pdb
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\url_pinger.genruntimeconfig.cache
+C:\Users\starw\Desktop\Workspaces\C_Sharp\Ping\url_pinger\obj\Debug\net7.0\ref\url_pinger.dll
