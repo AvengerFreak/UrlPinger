@@ -1,1 +1,3 @@
-A simple application that validates if a service is up and running by running the ping winidows command. This script is written using the C# programming language. 
+##Installation Instructions:
+
+Clone the repository in Visual Studio (see instructions [here](https://learn.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2022) to run the application. 
